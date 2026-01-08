@@ -1,2 +1,2 @@
-# ImgBed01
-图床
+# ImgBed
+个人图床
